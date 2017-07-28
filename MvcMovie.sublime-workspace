@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"$emailErr〔variable〕"
+			],
+			[
+				"parti",
+				"$participantid〔variable〕"
+			],
+			[
+				"Pa",
+				"Participantes"
+			],
+			[
+				"docu",
+				"$documentid〔variable〕"
+			],
+			[
+				"Clas",
+				"Clasificado"
+			],
+			[
+				"ag",
+				"$agency_id〔variable〕"
+			],
+			[
+				"Tour",
+				"Tours"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"age",
+				"$age〔variable〕"
+			],
+			[
+				"part",
+				"participant_id"
+			],
+			[
+				"sql",
+				"$sql12〔variable〕"
+			],
+			[
+				"bonus",
+				"bonus_score"
+			],
+			[
+				"bo",
+				"bonus"
+			],
+			[
+				"b",
+				"bonus"
+			],
+			[
+				"do",
+				"$document_id〔variable〕"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"P",
+				"PARTICIPANT"
+			],
+			[
+				"m",
+				"match"
+			],
+			[
+				"avat",
+				"avatarid"
+			],
+			[
+				"con",
+				"$cond〔variable〕"
+			],
+			[
+				"st",
+				"$start_date〔variable〕"
+			],
+			[
+				"a",
+				"agency_id"
+			],
+			[
+				"agency",
+				"$agencyid〔variable〕"
+			],
+			[
+				"Part",
+				"Participant"
+			],
+			[
+				"end",
+				"$end_date〔variable〕"
+			],
+			[
+				"sta",
+				"start_date"
+			],
+			[
+				"start",
+				"$start_date〔variable〕"
+			],
+			[
+				"s",
+				"startdate"
+			],
+			[
+				"las",
+				"$lastID〔variable〕"
+			],
+			[
+				"ma",
+				"match_id"
+			],
+			[
+				"WEE",
+				"Week"
+			],
+			[
+				"week",
+				"weeknum"
+			],
+			[
+				"g",
+				"gamescore"
+			],
+			[
+				"ga",
+				"game3_score"
+			],
+			[
+				"gam",
+				"game2_score"
+			],
+			[
+				"reg",
+				"reg_number"
+			],
+			[
+				"d",
+				"$date〔variable〕"
+			],
+			[
+				"p",
+				"$participantid〔variable〕"
+			],
+			[
+				"pa",
+				"$participantid〔variable〕"
+			],
+			[
+				"par",
+				"participantid"
+			],
+			[
+				"pat",
+				"participant_id"
+			],
+			[
+				"doc",
+				"document_id"
+			],
+			[
+				"ro",
+				"$row〔variable〕"
+			],
+			[
+				"max",
+				"maxint〔module〕"
+			],
+			[
+				"toy",
+				"toy_story〔variable〕"
+			],
+			[
+				"tra",
+				"trailer_youtube_url"
+			],
+			[
+				"po",
+				"poster_image〔argument〕"
+			],
+			[
+				"mov",
+				"movie_storyline〔argument〕"
+			],
+			[
+				"mo",
+				"movie_title〔argument〕"
+			],
+			[
+				"cur",
+				"curse_words"
+			],
+			[
+				"read",
+				"read_text〔function〕"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"Op",
+				"opponentid"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"loser",
+				"loserscore"
+			],
+			[
+				"view",
+				"viewUserMatches"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"winner",
+				"winner_score"
+			],
+			[
+				"w",
+				"winner_score"
+			],
+			[
+				"pas",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 656.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Shared/Error.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Shared/_ValidationScriptsPartial.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Shared/_Layout.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Home/Index.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Home/Contact.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Home/About.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Startup.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Blogs/Index.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Blogs/Edit.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Blogs/Details.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Blogs/Delete.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/Blogs/Create.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/_ViewStart.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/_ViewImports.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Views/_ViewImport.cshtml",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Program.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Models/Post.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Models/BloggingContext.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Models/Blog.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Controllers/HomeController.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/Controllers/BlogsController.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/appsettings.json",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/EFGetStarted.AspNetCore.ExistingDb/appsettings.Development.json",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/AdventureWorksAPI-master/src/AdventureWorksAPI/Startup.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/ASPCoreAngular2Shopping/ASPCoreAngular2Shopping/Controllers/ItemDetailsAPI.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/ASPCoreAngular2Shopping/ASPCoreAngular2Shopping/Controllers/HomeController.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/ASPCoreAngular2Shopping/ASPCoreAngular2Shopping/Controllers/SampleDataController.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/ASPCoreAngular2Shopping/ASPCoreAngular2Shopping/Data/ItemDetails.cs",
+		"/Users/juantomaylla/Documents/VisualStudio/Projects/ASPCoreAngular2Shopping/ASPCoreAngular2Shopping/Data/ItemContext.cs",
+		"/private/var/folders/v7/89xn48kn2pz5jkyht0lpq97m0000gn/T/fz3temp-2/MvcMovie.runtimeconfig.json",
+		"/Users/juantomaylla/Downloads/spacestudio.PublishSettings",
+		"/Users/juantomaylla/Documents/workspace/dev/referenceapplication-standalone-2.6.0/openmrs-standalone-runtime.properties",
+		"/Users/juantomaylla/Documents/VisualStudio/seisws-master/SEISWS/WSParticipante.asmx.cs",
+		"/Users/juantomaylla/Documents/workspace/dev/androidlogin/include/db.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/password.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/checkpassword.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/index.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addParticipantdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addParticipant.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Unlocking.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/them.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addParticipant1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/adminthem.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/reports_20170515.sql",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/languages/lang.es.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/languages/lang.en.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Clasification.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/deleteParticipant.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Unlockingdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateParticipant.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateParticipantdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Clasificationdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Processing.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/viewParticipantMatches1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/updateMatchResult.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByDateTime1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByGame1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Statistics.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByDateTime.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByGame.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/MultiLocalGamers.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfWeek1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/AgencyRanking1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/Reports.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByLocal.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/viewParticipantMatches.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/ViewTourParticipant.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfUsers1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfWeek.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/ParticipantInfo.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/AgencyRanking.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfUsers.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/tryImportExportDatabase.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/uploadCSV.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateAgency.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateAgencydb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByVisit.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfUsersdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/db.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/phpminiadmin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/treto/index.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/accountThem.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addCampaign.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateCampaign.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateAvatar.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addUser.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/campaign.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByGender.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addAgency.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addAvatar.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/css/signup.css",
+		"/Users/juantomaylla/Documents/workspace/dev/sipcel-info/index.html",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByGamedb.php",
+		"/Volumes/SANDISK/qsmart/index.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByGenderdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/languages/Spanish.json",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/StatByVisitdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/RankingOfWeekdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/AgencyRankingdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateCampaigndb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addCampaigndb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateUser.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addUserdb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/checklogin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/css/datepicker.css",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/addAvatardb.php",
+		"/private/var/folders/v7/89xn48kn2pz5jkyht0lpq97m0000gn/T/fz3temp-1/participantLogin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/footer.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/adminthem1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/userLogin1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/userLogin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/participantLogin1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/participantLogin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/DashBoard.php",
+		"/Users/juantomaylla/Documents/workspace/dev/treto/adminthem.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/webservice/updateMatchResult1.php",
+		"/Users/juantomaylla/Documents/workspace/dev/treto/checklogin.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/campaigndb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/undeleteAvatar.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/deleteAvatar.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/updateAvatardb.php",
+		"/Users/juantomaylla/Documents/workspace/dev/Sliding-Side-Menu-Panel-with-jQuery-Bootstrap-BootSideMenu/examples/1-simple-left.html",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/undeleteParticipant.php",
+		"/Users/juantomaylla/Documents/workspace/dev/qsmart/test.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"form1",
+			"body",
+			"add_rdata",
+			"$texto ",
+			"unblock",
+			"Ver Tours de Participantes",
+			"testdiv",
+			"tbtable",
+			"tboreder",
+			"tbtable",
+			"tboreder",
+			"GENDER",
+			"'VIEW",
+			"tboreder",
+			"$date",
+			"$sql12",
+			"BONUS",
+			"$total_score",
+			"$gamescore",
+			"$bonus",
+			"$gamescore",
+			"$ACCESS_PWD",
+			"$agencyid",
+			"$texto ",
+			"Partida",
+			"t.",
+			".t",
+			"StatByDateTime",
+			"img/",
+			"img",
+			"img/bk.jpg",
+			"date",
+			"'0'",
+			"GENDER",
+			"agency_id",
+			"START",
+			"TIME",
+			"DATE",
+			"date",
+			"TOTAL",
+			"AVATAR",
+			"agency",
+			"$end_date",
+			"$start_date",
+			"modifdate",
+			"SHOW",
+			"AGENCY",
+			"game",
+			"PARTICIPANT",
+			"VIEW",
+			"VIEW_",
+			"</th>",
+			"<th>",
+			"DashBoard.php",
+			"VOIDE",
+			"STATUS_GA",
+			"YES",
+			"voided",
+			"Agency",
+			"date1",
+			"AVATAR",
+			"$sql6",
+			"$regnum",
+			"$regnum ",
+			"NAME",
+			"Week",
+			"WEEK",
+			"$date",
+			"NOW()",
+			"$response4",
+			"));",
+			"date('Y-m-d', strtotime(",
+			"\"",
+			"];",
+			"$_POST",
+			"$",
+			"<div class=\"col-sm-4\">",
+			"type=\"date\"",
+			"type=\"text\"",
+			"start_date1",
+			"\"];",
+			"$_POST[\"",
+			"$row[",
+			"  ,",
+			"date1",
+			"   date,",
+			"date1",
+			"date1\"",
+			"name=\"address\"",
+			"for=\"address\"",
+			"address",
+			"date1",
+			"test",
+			"MENU_RANKING_OF_USERS",
+			"AVATAR",
+			"T-reto",
+			"GENDER",
+			"User",
+			"$document_type",
+			".'';",
+			".' ';",
+			".'  ';",
+			"\"gender\"",
+			"tbtable ",
+			"User",
+			"ENTER_AGE",
+			"gender",
+			"$gender",
+			"u.",
+			"User",
+			"STATUS",
+			"STA",
+			"WINNER",
+			"User",
+			"Agencia",
+			"T-reto",
+			"user_id",
+			"avatar",
+			"agency",
+			"qsmart",
+			"treto",
+			"triangle",
+			"// ",
+			"    ",
+			";",
+			"public String ",
+			"public int "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tbtable",
+			"Tour",
+			"g.",
+			".g",
+			"age",
+			"'$gender'",
+			"gender",
+			"gender_id",
+			"time",
+			"avatar",
+			"creationdate",
+			"",
+			"Reports.php",
+			"status",
+			"Campaign",
+			"date",
+			"CAMPAIGN",
+			"<?php echo $lang['WEEK'];?>",
+			"$datet",
+			"$date",
+			"$response",
+			";",
+			"",
+			"'",
+			"]));",
+			"date('Y-m-d',strtotime($_POST",
+			"",
+			"<div class=\"col-sm-3\">",
+			"type=\"date\" width=\"40\"",
+			"type=\"date\"",
+			"',",
+			"'",
+			"$_POST[",
+			",",
+			"date8",
+			"date7",
+			"date6",
+			"date5",
+			"date4",
+			"date3",
+			"date2",
+			",",
+			"date8",
+			"date7",
+			"date6",
+			"date5",
+			"date6",
+			"date5",
+			"date4",
+			"date4\"",
+			"date3\"",
+			"date2\"",
+			"name=\"end_date1\"",
+			"for=\"week1\"",
+			"end_date1",
+			"date5",
+			"date4",
+			"date3",
+			"date2",
+			"Qsmart",
+			"Participant",
+			"$status",
+			"'&nbsp;&nbsp;';",
+			"\"status\"",
+			"Participant",
+			"document_type",
+			"$document_type",
+			"p.",
+			"Participant",
+			"Local",
+			"Qsmart",
+			"participant_id",
+			"game",
+			"local",
+			"qsmart",
+			"square",
+			"",
+			"720",
+			"MINUTE,",
+			"u.first_name as",
+			")",
+			" = $row[];",
+			" = $row[]",
+			"uid",
+			"Agency",
+			"Avatar",
+			"avatar",
+			"Avatar",
+			"avatar",
+			"Avatar",
+			"Question",
+			"",
+			"<textarea rows=\"2\" cols=\"40\"",
+			"<textarea rows=\"4\" cols=\"40\"",
+			"required></textarea>",
+			"<textarea rows=\"2\" cols=\"40\"",
+			" = safe($conn,htmlspecialchars($_POST['']));",
+			"=;",
+			"$",
+			"Avatar",
+			"avatar",
+			"description",
+			"Question",
+			"pid",
+			"agency_id",
+			"name",
+			"Agency",
+			"$opon_avatar",
+			"$user_avatar",
+			"opon_avatar",
+			"user_avatar",
+			"opon_",
+			"score ) * 10 AS",
+			"$match",
+			"\",\"",
+			"\",NULL,1",
+			"\",0,\"",
+			"(NULL,NULL,4,\"",
+			"(NULL,NULL,3,\"",
+			"(NULL,NULL,2,\"",
+			"(NULL,NULL,1,\"",
+			",",
+			"$_GET",
+			"opon_",
+			"response3",
+			"SipCel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MvcMovie.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
